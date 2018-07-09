@@ -1,0 +1,21 @@
+#.gitignore
+
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# MacOSX:
+.DS_Store
+
+# IDE:
+.idea
+.settings
+
+# VCS
+.git
+.svn
+.cvs
+vssver2.scc
+
+*.unknown
